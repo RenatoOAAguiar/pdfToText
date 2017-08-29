@@ -1,0 +1,2 @@
+-- Instalar a seguinte biblioteca para correta utilização(Ubuntu)
+- apt-get install libpulse-dev
